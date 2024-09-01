@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Sobre mí</h2>
+<h2 align="center">Sobre mí</h2>
 
 ###
 
