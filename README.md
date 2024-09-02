@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👀 Actualmente estoy en búsqueda de oportunidades laborales en el ámbito de la programación, tanto en backend como en frontend.<br><br>💻 Los lenguajes que suelo usar son: Java, JavaScript, TypeScript, HTML y CSS.<br><br>📚 En este momento, me estoy enfocando en profundizar mis conocimientos en AngularJS y perfeccionar mis habilidades en JavaScript, llevando a cabo proyectos personales.<br><br>🔄 Me comprometo a hacer commits de manera semanal para mantener mi actividad y crecimiento.<br><br>🌐 Puedes conocer más sobre mí en mi portafolio web: https://franinfanteporfolio.netlify.app<br><br>🔗 También puedes conectar conmigo a través de LinkedIn: https://www.linkedin.com/in/franinfante/</p>
+<p align="left">👀 Actualmente estoy en búsqueda de oportunidades laborales en el ámbito de la programación, tanto en backend como en frontend.<br><br>💻 Los lenguajes que suelo usar son: Java, JavaScript, TypeScript, HTML y CSS.<br><br>📚 En este momento, me estoy enfocando en profundizar mis conocimientos en AngularJS y perfeccionar mis habilidades en JavaScript, llevando a cabo proyectos personales.<br><br>🔄 Me comprometo a hacer commits de manera semanal para mantener mi actividad y crecimiento.<br><br>🌐 Puedes conocer más sobre mí en mi porfolio web: https://franinfanteporfolio.netlify.app<br><br>🔗 También puedes conectar conmigo a través de LinkedIn: https://www.linkedin.com/in/franinfante/</p>
 
 ###
 
